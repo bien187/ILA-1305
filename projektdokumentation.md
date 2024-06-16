@@ -37,8 +37,6 @@ Wir haben eine Webseite für unser fiktives Schuhunternehmen "xxx" programmiert.
 
 ### 1.3 Testfälle
 
-<response>
-# Tabelle in Markdown
 
 | US-№ | Verbindlichkeit | Typ          | Beschreibung                                                                                                                                 |
 | ---- | --------------- | ------------ | -------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -77,22 +75,29 @@ Total: 22 Arbeitspakete
 
 ## 4 Realisieren
 
-| AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
-| ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
-| ...  |       |           |               |                   |
 
-✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
+| AP-№ | Datum  | Zuständig | geplante Zeit | tatsächliche Zeit |
+| ---- | ------ | --------- | ------------- | ----------------- |
+| 1.A  | 15.05. | Janick    | 45 min        |         45 min          |
+| 1.B  | 15.05. | Ben       | 2*45 min      |        2*45 min            |
+| 2.A  | 22.05. | Jan       | 3*45 min      |       3*45 min            |
+| 2.B  | 22.05. | Janick    | 3*45 min      |       3*45 min            |
+| 2.C  | 29.05. | Ben       | 2*45 min      |        2*45 min            |
+| 3.A  | 29.05. | Ben       | 3*45 min      |       3*45 min            |
+| 3.B  | 05.06. | Jan       | 3*45 min      |       3*45 min            |
+| 3.C  | 05.06. | Jan       | 2*45 min      |        2*45 min            |
+| 4.A  | 12.06. | Ben       | 45 min        |       45 min            |
+| 4.B  | 12.06. | Janick    | 2*45 min      |          2*45 min          |
 
 ## 5 Kontrollieren
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
+| 1.1  |  16.06     |  OK        |  Ben   |
+| 2.1  |   16.06    |    OK       |  Ben     |
+| 3.1  |   16.06    |    OK       |    Ben    |
+| 4.1  |   16.06    |   OK        |    Ben    |
+| 5.1  |   16.06    |    OK       |   Ben    |
 
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
-## 6 Auswerten
 
-✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
