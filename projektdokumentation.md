@@ -69,21 +69,7 @@ Wir haben eine Webseite für unser fiktives Schuhunternehmen "xxx" programmiert.
 
 Total: 22 Arbeitspakete
 
-## Zusätzliche Hinweise
 
-- **Gesamtanzahl der Arbeitspakete:** 3 Gruppenmitglieder × 4 Sitzungen × 4 Arbeitspakete = 24 Arbeitspakete.
-- Es fehlen noch 4 Arbeitspakete. Diese sollten als "Kann"-User Stories für Kapitel 1.2 hinzugefügt werden.
-
-## 🌐 Sources
-1. [ejpd.admin.ch - Zustellung an Wochenenden und Feiertagen mit "A-Post Plus"](https://www.ejpd.admin.ch/ejpd/de/home/aktuell/mm.msg-id-100023.html)
-2. [quanos.com - Quanos Connect 2024](https://quanos.com/connect/)
-3. [strgzh.ch - Fristen und deren Einhaltung](https://www.strgzh.ch/verfahren/fristen-und-deren-einhaltung)
-4. [bearingpoint.com - Nachhaltigkeitsberichtswesen als Live-Demo im SCT 2.0](https://www.bearingpoint.com/de-de/publikationen-and-events/veranstaltungen/cfo-40-webinarreihe-fruehjahrs-edition-2024-nachhaltigkeitsberichtswesen-als-live-demo-im-sct-20/)
-5. [eur-lex.europa.eu - DURCHFÜHRUNGSVERORDNUNG (EU) 2015/2447](https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:02015R2447-20210315&from=EN)
-6. [stackable.tech - Events](https://stackable.tech/de/events/)
-</response>
-
-Total: 22 Arbeitspakete
 
 ## 3 Entscheiden
 
