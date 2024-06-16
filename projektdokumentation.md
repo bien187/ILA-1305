@@ -1,8 +1,7 @@
 # Projekt-Dokumentation
 
-☝️ Alle Text-Stellen, welche mit einem ✍️ beginnen, können Sie löschen, sobald Sie die entsprechende Stellen ausgefüllt haben.
 
-✍️ Ihr Gruppenname und Ihre Nachnamen
+Gruppe MüFreHu: Müller, Frey und Hurschler
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
@@ -14,9 +13,9 @@
 
 ### 1.1 Ihr Projekt
 
-✍️ Beschreiben Sie Ihr Projekt in einem griffigen Satz.
+Eine Webseite für unser Schuhunternehmen "xx", welche es Kunden ermöglicht, eine Rezension zu hinterlassen.
 
-✍️ Erklären Sie genauer in 50 bis 100 Wörtern, was genau Sie in diesem Projekt erreichen möchten, und was Sie dabei zu lernen hoffen.
+Wir haben eine Webseite für unser fiktives Schuhunternehmen "xxx" programmiert. Die Webseite enthält die Unterseiten "Unternehmensgeschichte", "Dienstleistungen" und "Kontaktinformationen". Zudem haben wir eine Hauptseite, auf der unsere angebotenen Schuhe zu sehen sind und eine Feedbackseite, auf der Kunden ihre Rezensionen hinterlassen können. Die Webseite ist in React implementiert und als Backend wir MongoDB verwendet.
 
 ### 1.2 User Stories
 
