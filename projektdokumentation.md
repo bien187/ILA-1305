@@ -3,11 +3,14 @@
 
 Gruppe MüFreHu: Müller, Frey und Hurschler
 
-| Datum | Version | Zusammenfassung                                              |
-| ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
-|       | ...     |                                                              |
-|       | 1.0.0   |                                                              |
+| Datum  | Version | Zusammenfassung                                                |
+| ------ | ------- | -------------------------------------------------------------- |
+| 15.05  | 0.0.1   | Ideenfindung und erstellen der ReactApp, Grundgerüst der Webseite planen |
+| 22.05  | 0.0.2   | Grundgerüst der Webseite implementieren     |
+| 29.05  | 0.0.3   | Erstellen der gefordeten Seiten "Unternehmensgeschichte", "Dienstleistungen" und "Kontaktinformationen"    |
+| 05.06  | 0.0.4   | Erstellen der Seite "Kundenrezensionen" und verbinden mit MonogDB als Backend |
+| 12.06  | 0.0.5   |Implementieren der Produktseite |
+|16.05|1.0.0|Verbessern der Produktseite, eltzter Schliff|
 
 ## 1 Informieren
 
