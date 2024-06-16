@@ -22,12 +22,18 @@ Wir haben eine Webseite für unser fiktives Schuhunternehmen "xxx" programmiert.
 
 ### 1.2 User Stories
 
-| US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
-| ---- | --------------- | ---- | ---------------------------------- |
-| 1    |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
-| ...  |                 |      |                                    |
+<response>
+# füge noch eine hinzu, dass die daten in einer nosql datenbank gespeichert werden
 
-✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
+| US-№ | Verbindlichkeit | Typ        | Beschreibung                                                      |
+| ---- | --------------- | ---------- | ----------------------------------------------------------------- |
+| 1    | Muss            | Funktional | Als ein Kunde möchte ich die Unternehmensgeschichte lesen können, damit ich mehr über die Marke erfahre. |
+| 2    | Muss            | Funktional | Als ein Kunde möchte ich eine Liste der angebotenen Dienstleistungen sehen, damit ich weiß, welche Services verfügbar sind. |
+| 3    | Muss            | Funktional | Als ein Kunde möchte ich die Kontaktinformationen leicht finden, damit ich das Unternehmen kontaktieren kann. |
+| 4    | Muss            | Funktional | Als ein Kunde möchte ich auf der Produktseite Bewertungen hinterlassen können, damit ich meine Meinung teilen kann. |
+| 5    | Muss            | Funktional | Als ein Kunde möchte ich Kundenrezensionen lesen können, damit ich fundierte Kaufentscheidungen treffen kann. |
+| 6    | Muss            | Funktional | Als ein Entwickler möchte ich, dass die Kundenrezensionen in einer NoSQL-Datenbank gespeichert werden, damit die Daten flexibel und skalierbar verwaltet werden können. |
+
 
 ### 1.3 Testfälle
 
