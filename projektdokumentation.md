@@ -16,9 +16,9 @@ Gruppe MüFreHu: Müller, Frey und Hurschler
 
 ### 1.1 Ihr Projekt
 
-Eine Webseite für unser Schuhunternehmen "xx", welche es Kunden ermöglicht, eine Rezension zu hinterlassen.
+Eine Webseite für unser Schuhunternehmen "SneakZone", welche es Kunden ermöglicht, eine Rezension zu hinterlassen.
 
-Wir haben eine Webseite für unser fiktives Schuhunternehmen "xxx" programmiert. Die Webseite enthält die Unterseiten "Unternehmensgeschichte", "Dienstleistungen" und "Kontaktinformationen". Zudem haben wir eine Hauptseite, auf der unsere angebotenen Schuhe zu sehen sind und eine Feedbackseite, auf der Kunden ihre Rezensionen hinterlassen können. Die Webseite ist in React implementiert und als Backend wir MongoDB verwendet.
+Wir haben eine Webseite für unser fiktives Schuhunternehmen "SneakZone" programmiert. Die Webseite enthält die Unterseiten "Unternehmensgeschichte", "Dienstleistungen" und "Kontaktinformationen". Zudem haben wir eine Hauptseite, auf der unsere angebotenen Schuhe zu sehen sind und eine Feedbackseite, auf der Kunden ihre Rezensionen hinterlassen können. Die Webseite ist in React implementiert und als Backend haben wir MongoDB verwendet.
 
 ### 1.2 User Stories
 
