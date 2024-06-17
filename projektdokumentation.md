@@ -87,7 +87,7 @@ Total: 22 Arbeitspakete
 | 3.B  | 05.06. | Jan       | 3*45 min      |       3*45 min            |
 | 3.C  | 05.06. | Jan       | 2*45 min      |        2*45 min            |
 | 4.A  | 12.06. | Ben       | 45 min        |       45 min            |
-| 4.B  | 12.06. | Janick    | 2*45 min      |          2*45 min          |
+| 4.B  | 12.06. | Ben    | 2*45 min      |          2*45 min          |
 
 ## 5 Kontrollieren
 
