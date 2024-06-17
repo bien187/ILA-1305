@@ -22,8 +22,6 @@ Wir haben eine Webseite für unser fiktives Schuhunternehmen "SneakZone" program
 
 ### 1.2 User Stories
 
-<response>
-# füge noch eine hinzu, dass die daten in einer nosql datenbank gespeichert werden
 
 | US-№ | Verbindlichkeit | Typ        | Beschreibung                                                      |
 | ---- | --------------- | ---------- | ----------------------------------------------------------------- |
