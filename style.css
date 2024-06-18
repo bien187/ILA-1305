@@ -1,0 +1,170 @@
+html {
+    scroll-behavior: smooth;
+}
+
+#LogoHeader {
+    align-content: center;
+}
+
+#landingpageLink {
+    text-align: center;
+    font-style: normal;
+    width: 33%;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #EEEEEE;
+
+}
+
+header {
+    width: 100%;
+
+    text-align: center;
+
+}
+
+#zumShop {
+    font-size: x-large;
+}
+
+#catch-text {
+    font-size: 100px;
+
+    font-family: Helvetica;
+}
+
+#catch-box {
+    text-align: center;
+}
+
+#Logo {
+    width: 40%;
+
+
+}
+
+
+
+nav {
+    background-color: #5C9EAD;
+
+
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+
+
+
+}
+
+.navbar {
+    text-align: center;
+
+}
+
+a {
+    color: black;
+    text-decoration: none;
+    margin: 20px;
+}
+
+#men_checkbox:checked~.shoes.shoes:hover {
+    display: none;
+}
+
+#filter {
+    text-align: center;
+
+}
+
+
+
+hr {
+    width: 75%;
+}
+
+
+
+.shoes {
+    width: 325px;
+    margin: 20px;
+    border-radius: 5px;
+    box-shadow: 5px -5px 5px grey;
+    transition: transform .5s ease;
+    filter: grayscale(100%);
+
+
+}
+
+
+.shoes:hover {
+    transform: scale(1.1);
+    filter: grayscale(0%);
+
+
+}
+
+
+.row {
+    text-align: center;
+}
+
+#nachOben {
+    width: 20%;
+    float: right;
+    transition: transform .5s ease;
+}
+
+#nachOben:hover {
+    transform: scale(1.1);
+}
+
+#DarkmodeButton {
+
+    text-align: right;
+    width: 33%;
+
+
+
+}
+
+#DarkmodeButton:hover {
+    transform: scale(1.1);
+}
+
+#feedbackForm {
+    margin: right 80%;
+}
+.inputForm{
+    margin: right 80%;
+}
+
+.kontaktInfo{
+    align-items: row;
+}
+
+.janPng{
+    margin-top:2vh;
+    margin-left:2vw;
+    width: 30vw;
+    height:60vh;
+}
+.benPng{
+    margin-top:2vh;
+    margin-left:2vw;
+    width: 30vw;
+    height:60vh;
+}
+.thomasPng{
+    margin-top:2vh;
+    margin-left:2vw;
+    width: 30vw;
+    height:60vh;
+}
+.footer{
+    background-color: #5C9EAD;
+    align-items: center;
+}

@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SneakZone</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header>
+        <div id="LogoHeader">
+            <img id="Logo" src="./Bilder/LogoWM-removebg-preview.png" alt="Logo">
+        </div>
+    </header>
+
+    <nav>
+        <div class="navbar">
+            <a href="index.html">Shop</a>
+            <a href="landingpage.html">Zur Landingpage</a>
+            <a href="kontakt.html">Kontaktinformationen</a>
+            <a href="feedback.html">Feedback</a>
+            <a href="geschichte.html">Unternehmensgeschichte</a>
+        </div>
+    </nav>
+
+    <main>
+        <div>
+            <h1>Feedback</h1>
+            <form id="feedbackForm">
+                <div class="inputForm">
+                <label for="name">Name:</label>
+                <input type="text" id="name" name="name" required>
+                <br>
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email" required>
+                <br>
+                <label for="message">Nachricht:</label>
+                <textarea id="message" name="message" required></textarea>
+                <br>
+                <button type="submit">Senden</button>
+            </div>
+            </form>
+            <p id="responseMessage"></p>
+        </div>
+    </main>
+
+    <script>
+        document.getElementById('feedbackForm').addEventListener('submit', async function(event) {
+            event.preventDefault();
+
+            const name = document.getElementById('name').value;
+            const email = document.getElementById('email').value;
+            const message = document.getElementById('message').value;
+
+            const feedbackData = { name, email, message };
+
+            try {
+                const response = await fetch('https://dein-backend-url/feedback', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify(feedbackData)
+                });
+
+                const result = await response.json();
+
+                if (response.ok) {
+                    document.getElementById('responseMessage').textContent = 'Feedback erfolgreich gesendet!';
+                } else {
+                    document.getElementById('responseMessage').textContent = 'Fehler: ' + result.message;
+                }
+            } catch (error) {
+                document.getElementById('responseMessage').textContent = 'Ein Fehler ist aufgetreten: ' + error.message;
+            }
+        });
+    </script>
+</body>
+
+</html>
