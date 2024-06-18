@@ -168,3 +168,55 @@ hr {
     background-color: #5C9EAD;
     align-items: center;
 }
+.geschichte{
+    text-align: center;
+}
+
+
+button[type="submit"] {
+    padding: 12px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button[type="submit"]:hover {
+    background-color: #45a049;
+}
+
+#responseMessage {
+     text-align: center;
+     margin-top: 10px;
+     color: #333333;
+}
+
+input[type="text"],
+input[type="email"],
+textarea {
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #cccccc;
+    border-radius: 4px;
+    font-size: 14px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}   
+
+.inputForm{
+    align-items: center;
+    text-align: center;
+    size: 70%;
+}
+h1{
+    text-align: center;
+}
+
+#message{
+    font-family: Arial, sans-serif;
+}
