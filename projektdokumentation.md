@@ -69,8 +69,7 @@ Total: 22 Arbeitspakete
 
 ## 3 Entscheiden
 
-✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
-
+Wir haben uns für für HTML/CSS, Visual Studio Code, Visual Studio Enterprise und das .NET-Framework entschieden.
 ## 4 Realisieren
 
 
@@ -80,8 +79,8 @@ Total: 22 Arbeitspakete
 | 1.B  | 15.05. | Ben       | 2*45 min      |        2*45 min            |
 | 2.A  | 22.05. | Jan       | 3*45 min      |       3*45 min            |
 | 2.B  | 22.05. | Janick    | 3*45 min      |       3*45 min            |
-| 2.C  | 29.05. | Ben       | 2*45 min      |        2*45 min            |
-| 3.A  | 29.05. | Ben       | 3*45 min      |       3*45 min            |
+| 2.C  | 29.05. | Ben       | 2*45 min      |        1*45 min            |
+| 3.A  | 29.05. | Ben       | 3*45 min      |       8*45 min            |
 | 3.B  | 05.06. | Jan       | 3*45 min      |       3*45 min            |
 | 3.C  | 05.06. | Jan       | 2*45 min      |        2*45 min            |
 | 4.A  | 12.06. | Ben       | 45 min        |       45 min            |
